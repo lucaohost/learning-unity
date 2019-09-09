@@ -1,0 +1,11 @@
+/opt/lampp/htdocs/learning-unity/obj/Debug/netcoreapp2.2/learning-unity.csprojAssemblyReference.cache
+/opt/lampp/htdocs/learning-unity/obj/Debug/netcoreapp2.2/learning-unity.csproj.CoreCompileInputs.cache
+/opt/lampp/htdocs/learning-unity/obj/Debug/netcoreapp2.2/learning-unity.AssemblyInfoInputs.cache
+/opt/lampp/htdocs/learning-unity/obj/Debug/netcoreapp2.2/learning-unity.AssemblyInfo.cs
+/opt/lampp/htdocs/learning-unity/bin/Debug/netcoreapp2.2/learning-unity.deps.json
+/opt/lampp/htdocs/learning-unity/bin/Debug/netcoreapp2.2/learning-unity.runtimeconfig.json
+/opt/lampp/htdocs/learning-unity/bin/Debug/netcoreapp2.2/learning-unity.runtimeconfig.dev.json
+/opt/lampp/htdocs/learning-unity/bin/Debug/netcoreapp2.2/learning-unity.dll
+/opt/lampp/htdocs/learning-unity/bin/Debug/netcoreapp2.2/learning-unity.pdb
+/opt/lampp/htdocs/learning-unity/obj/Debug/netcoreapp2.2/learning-unity.dll
+/opt/lampp/htdocs/learning-unity/obj/Debug/netcoreapp2.2/learning-unity.pdb
